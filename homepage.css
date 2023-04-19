@@ -1,0 +1,33 @@
+button {
+    display: inline-block;
+    background-color: #888080;
+    padding: 10px;
+    width: 700px;
+    color: #000000;
+    text-align: center;
+    font: bold;
+    font-size: large;
+    font-weight: 1000;
+    border-radius: 10px;
+  }
+
+h3 {
+font: bold;
+font-size: large;
+color: white;
+font: 500;
+
+}
+
+.header{
+    width: 100%;
+    height: 45px;
+    font-size: xx-large;
+    color: white;
+}
+
+.background {
+  background-color: #000000;
+  height: 100vh;
+  padding-top: 1px;
+}
